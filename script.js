@@ -339,7 +339,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // ==========================================
     //  5. COUNTDOWN TIMER
     // ==========================================
-    const weddingDate = new Date('2026-08-31T15:00:00').getTime();
+    const weddingDate = new Date('2026-11-15T11:00:00').getTime();
 
     const daysEl = document.getElementById('countdown-days');
     const hoursEl = document.getElementById('countdown-hours');
